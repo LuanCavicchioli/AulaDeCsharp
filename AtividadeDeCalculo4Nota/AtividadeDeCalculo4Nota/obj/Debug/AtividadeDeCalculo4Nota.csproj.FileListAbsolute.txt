@@ -1,0 +1,8 @@
+C:\Users\luan.caaziani\source\repos\AtividadeDeCalculo4Nota\AtividadeDeCalculo4Nota\bin\Debug\AtividadeDeCalculo4Nota.exe.config
+C:\Users\luan.caaziani\source\repos\AtividadeDeCalculo4Nota\AtividadeDeCalculo4Nota\bin\Debug\AtividadeDeCalculo4Nota.exe
+C:\Users\luan.caaziani\source\repos\AtividadeDeCalculo4Nota\AtividadeDeCalculo4Nota\bin\Debug\AtividadeDeCalculo4Nota.pdb
+C:\Users\luan.caaziani\source\repos\AtividadeDeCalculo4Nota\AtividadeDeCalculo4Nota\obj\Debug\AtividadeDeCalculo4Nota.csproj.AssemblyReference.cache
+C:\Users\luan.caaziani\source\repos\AtividadeDeCalculo4Nota\AtividadeDeCalculo4Nota\obj\Debug\AtividadeDeCalculo4Nota.csproj.SuggestedBindingRedirects.cache
+C:\Users\luan.caaziani\source\repos\AtividadeDeCalculo4Nota\AtividadeDeCalculo4Nota\obj\Debug\AtividadeDeCalculo4Nota.csproj.CoreCompileInputs.cache
+C:\Users\luan.caaziani\source\repos\AtividadeDeCalculo4Nota\AtividadeDeCalculo4Nota\obj\Debug\AtividadeDeCalculo4Nota.exe
+C:\Users\luan.caaziani\source\repos\AtividadeDeCalculo4Nota\AtividadeDeCalculo4Nota\obj\Debug\AtividadeDeCalculo4Nota.pdb
